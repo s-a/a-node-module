@@ -1,19 +1,17 @@
 # a-node-module [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
->
+> A node module generator that simply works.
 
 ## Installation
 
 ```sh
-$ npm install --save a-node-module
+$ npm i -g a-node-module
 ```
 
 ## Usage
 
-```js
-const aNodeModule = require('a-node-module');
-
-aNodeModule('Rainbow');
+```bash
+$ node-module <your-new-node-module-name>
 ```
 
 ## License
